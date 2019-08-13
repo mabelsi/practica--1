@@ -39,7 +39,7 @@ Este proceso de despacho, que a simple vista parece muy simple, es en realidad m
 
 6. Con un gráfico explique cómo funciona el protocolo HTTP.
 
-   ![img](..\practica\protocolo.png)
+![img](..\practica\protocolo.png)
 
 7. Explique los elementos importantes de REQUEST en HTTP.
 
@@ -56,7 +56,7 @@ Este proceso de despacho, que a simple vista parece muy simple, es en realidad m
 - Un cuerpo de mensaje, que es opcional. Cuando trabajamos con aplicaciones, aquí puede venir la respuesta en XML u otro formato. Cuando es una página del navegador, contiene el código HTML que forma nuestra página.
 9.  Describa con un gráfico la arquitectura Java EE.
 
-    ![img](..\practica\arquitectura.png)
+![img](..\practica\arquitectura.png)
 
 10.   Explique cuáles son los contenedores, componentes y servicios de Java EE.
 >Un **contenedor** es un entorno de ejecución que provee al componente una serie de servicios.
